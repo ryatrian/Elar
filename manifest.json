@@ -1,0 +1,21 @@
+{
+  "short_name": "انتخاب متن",
+  "name": "انتخاب تصادفی متن از اکسل",
+  "description": "یک فایل اکسل را بارگذاری کنید و با هر کلیک یک متن تصادفی و غیر تکراری را در کلیپ‌بورد خود کپی کنید.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#f1f5f9"
+}
